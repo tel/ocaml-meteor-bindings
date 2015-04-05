@@ -1,0 +1,3 @@
+PKG goji_lib
+S .
+B _build
